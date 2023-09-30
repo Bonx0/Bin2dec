@@ -1,5 +1,3 @@
-import math
-
 a = int(input("Zadaj cislo:"))
 
 c=0
